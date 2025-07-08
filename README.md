@@ -85,13 +85,13 @@ The **Decision Tree classifier is the best-performing model** for this task, wit
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/stellar-classification.git](https://github.com/your-username/stellar-classification.git)
+    git clone [https://github.com/k3rnel-paN1c5/stellar-classification.git](https://github.com/k3rnel-paN1c5/stellar-classification.git)
     cd stellar-classification
     ```
 2.  **Install dependencies** (see below).
 3.  **Run the Jupyter Notebook:**
     ```bash
-    jupyter notebook Final.ipynb
+    jupyter notebook Stellar-Classification.ipynb
     ```
 The notebook contains the full workflow, and the trained models are saved to `.joblib` files for future use.
 
